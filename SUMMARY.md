@@ -7,6 +7,7 @@
 * [Peer Review Guidelines](group-policies/peer-review-guidelines.md)
 * [Travel](group-policies/travel.md)
 * [Page 1](group-policies/page-1.md)
+* [Wexler Group Script Depository](group-policies/wexler-group-script-depository.md)
 
 ## Research
 
