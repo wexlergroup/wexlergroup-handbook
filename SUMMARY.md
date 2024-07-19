@@ -18,6 +18,7 @@
 * [Page 2](research/page-2.md)
 * [Surfaces](research/surfaces.md)
 * [Defects](research/defects.md)
+* [Resources](research/resources.md)
 
 ## Group Administration
 
