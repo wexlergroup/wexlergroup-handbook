@@ -13,11 +13,15 @@
 
 ## Research
 
-* [Interatomic Potentials](research/interatomic-potentials.md)
-* [Structure Optimization](research/structure-optimization.md)
+* [Models](research/models.md)
+* [Methods](research/methods/README.md)
+  * [Interatomic Potentials](research/methods/interatomic-potentials.md)
+  * [Structure Optimization](research/methods/structure-optimization.md)
+* [Properties](research/properties.md)
+* [Systems](research/systems/README.md)
+  * [Defects](research/systems/defects.md)
+  * [Surfaces](research/systems/surfaces.md)
 * [Page 2](research/page-2.md)
-* [Surfaces](research/surfaces.md)
-* [Defects](research/defects.md)
 * [External Resources](research/external-resources.md)
 
 ## Group Administration
