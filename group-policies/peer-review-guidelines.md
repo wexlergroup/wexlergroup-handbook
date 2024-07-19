@@ -1,4 +1,4 @@
-# Peer Review Guidelines
+# Peer Review
 
 Participating in the peer review process is an invaluable opportunity to apply your expertise, contribute to the scientific community, and learn about new developments in our field. Here are detailed guidelines for conducting peer reviews based on the instructions provided by Professor Wexler:
 
@@ -11,14 +11,14 @@ Participating in the peer review process is an invaluable opportunity to apply y
 2. **Evaluation Criteria**:
    * **Validity**:
      * Assess the methods and analysis.
-     * Determine if the data support the conclusions.
+     * Determine if the data supports the conclusions.
      * Suggest improvements or additional data if needed.
    * **Importance**:
      * Evaluate the originality and contribution to the field.
    * **Presentation**:
      * Check for clarity in language, structure, and presentation of results.
      * Ensure the work is appropriately cited and contextualized.
-     * Assess if the paper is suitable for the journal's audience or suggest a more appropriate journal if necessary.
+     * Assess if the paper suits the journal's audience or suggest a more appropriate journal if necessary.
 3. **Additional Considerations**:
    * **Be Critical**: Constructively critique the work.
    * **Acknowledge Strengths**: Recognize the positive aspects of the work.
