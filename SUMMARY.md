@@ -15,12 +15,12 @@
 
 * [Models](research/models.md)
 * [Methods](research/methods/README.md)
-  * [Interatomic Potentials](research/methods/interatomic-potentials.md)
-  * [Structure Optimization](research/methods/structure-optimization.md)
+  * [Interatomic Potentials](research/interatomic-potentials.md)
+  * [Structure Optimization](research/structure-optimization.md)
 * [Properties](research/properties.md)
 * [Systems](research/systems/README.md)
-  * [Defects](research/systems/defects.md)
-  * [Surfaces](research/systems/surfaces.md)
+  * [Defects](research/defects.md)
+  * [Surfaces](research/surfaces.md)
 * [Page 2](research/page-2.md)
 * [External Resources](research/external-resources.md)
 
