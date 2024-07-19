@@ -11,6 +11,13 @@ The Office of Postdoctoral Affairs (OPA) runs a full day orientation program for
 * When traveling overseas, a travel endorsement needs to be obtained from the Office for International Students and Scholars (OISS) on your current DS-2019 Form _before_ the trip!
 * ...
 
+<!---->
+
+* Mind your J-1 visa expiration date.
+* When traveling overseas, a travel endorsement needs to be obtained from the Office for International Students and Scholars (OISS) on your current DS-2019 Form _before_ the trip!
+
+\[Google]\(www.google.com)
+
 ## Useful resources
 
 * [Office of Postdoctoral Affairs (OPA)](https://postdoc.wustl.edu/)
