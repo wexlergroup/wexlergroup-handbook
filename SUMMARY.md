@@ -4,7 +4,7 @@
 
 ## Group Policies
 
-* [Peer Review](group-policies/peer-review-guidelines.md)
+* [Peer Review](group-policies/peer-review.md)
 * [Travel](group-policies/travel.md)
 * [Page 1](group-policies/page-1.md)
 * [Wexler Group Script Depository](group-policies/wexler-group-script-depository.md)
