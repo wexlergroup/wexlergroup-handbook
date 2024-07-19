@@ -39,12 +39,16 @@ resources for these topics:
 computation
 
 * software (basic vs advanced?)
-  * ase
-  * pymatgen
+  * [ASE](https://wiki.fysik.dtu.dk/ase/)
+  * ASE tutorial: [MATLANTIS](https://docs.matlantis.com/atomistic-simulation-tutorial/en/,), [ASE webpage](https://wiki.fysik.dtu.dk/ase/tutorials/tutorials.html)&#x20;
+  * pymatgen: [https://pymatgen.org/](https://pymatgen.org/)
   * pymatnest
   * freebird.jl
-  * vasp (dft codes)
-  * icet (general CE codes)
+  * DFT codes
+    * [VASP](https://www.vasp.at/wiki/index.php/The\_VASP\_Manual)
+    * [VASP workflow for NREL Eagle](https://github.com/rymo1354/vasp\_workflow)
+  * icet (general CE codes):
+    * [ICET](https://icet.materialsmodeling.org/)
   * lammps
   * (deepmd, ml interatomic potentials)
   * visualization (ovito, vesta, vmd, avogadro, ase, jmol, atombase.jl)
