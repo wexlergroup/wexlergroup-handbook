@@ -10,6 +10,7 @@
 * [Wexler Group Script Depository](group-policies/wexler-group-script-depository.md)
 * [Manuscripts](group-policies/manuscripts/README.md)
   * [Suggestions for Getting Started](group-policies/manuscripts/suggestions-for-getting-started.md)
+  * [Examples](group-policies/manuscripts/examples.md)
 
 ## Research
 
