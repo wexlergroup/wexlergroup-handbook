@@ -7,11 +7,9 @@ The Office of Postdoctoral Affairs (OPA) runs a full day orientation program for
 ## For international postdocs
 
 * Mind your J-1 visa expiration date.
-* Even if your J1 visa expires while you are in the United States, you can continue to stay legally as long as your DS-2019 remains valid. However, it’s important to note that if you travel overseas from US after your J1 visa has expired, you must renew your visa before returning. Unfortunately, it’s not possible to renew a J1 visa from within the US.
+* Even if your J-1 visa expires while you are in the United States, you can continue to stay legally as long as your DS-2019 remains valid. However, it’s important to note that if you travel overseas from US after your J1 visa has expired, you must renew your visa before returning. Unfortunately, it’s not possible to renew a J1 visa from within the US.
 * When traveling overseas, a travel endorsement needs to be obtained from the Office for International Students and Scholars (OISS) on your current DS-2019 Form _before_ the trip!
 * ...
-
-
 
 ## Useful resources
 
