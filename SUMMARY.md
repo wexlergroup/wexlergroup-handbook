@@ -24,6 +24,11 @@
   * [Surfaces](research/surfaces.md)
 * [Page 2](research/page-2.md)
 * [External Resources](research/external-resources.md)
+* [Softwares](research/softwares/README.md)
+  * [VASP(6.4.1) Installation](research/softwares/vasp-6.4.1-installation/README.md)
+    * [Compiling VASP with Intel oneAPI and HPC Toolkits for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-intel-oneapi-and-hpc-toolkits-for-cpus.md)
+    * [Compiling VASP with AMD AOCC and AOCL for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-amd-aocc-and-aocl-for-cpus.md)
+    * [Compiling VASP with NVIDIA HPC\_SDK for GPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-nvidia-hpc\_sdk-for-gpus.md)
 
 ## Group Administration
 
