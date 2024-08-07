@@ -1,9 +1,10 @@
-# Structure Optimization
+# Crystal Structure Optimization
 
-overall workflow for dft -> thermo, ns -> thermo
+## Recipe
 
-parameters, what do they mean, how to test converge
+### 1. Get Crystal Structure
 
-standard problems or links to the answers (convergence, structure and cell optimization, surface slabs, walkers, decorrelation)
+* **Materials Project**: [https://next-gen.materialsproject.org/](https://next-gen.materialsproject.org/)
+* **ICSD**: [http://libproxy.wustl.edu/login?url=https://libguides.wustl.edu/passwords](http://libproxy.wustl.edu/login?url=https://libguides.wustl.edu/passwords) (login and scroll down to Inorganic Crystal Structure Database)
 
-vasp/dft, pymatnest+freebird/nested sampling, lammps+vasp/md
+### 2.&#x20;

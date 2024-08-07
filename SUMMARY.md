@@ -17,7 +17,7 @@
 * [Models](research/models.md)
 * [Methods](research/methods/README.md)
   * [Interatomic Potentials](research/interatomic-potentials.md)
-  * [Structure Optimization](research/structure-optimization.md)
+  * [Crystal Structure Optimization](research/structure-optimization.md)
 * [Properties](research/properties.md)
 * [Systems](research/systems/README.md)
   * [Defects](research/defects.md)
