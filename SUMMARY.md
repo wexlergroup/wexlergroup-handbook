@@ -5,7 +5,6 @@
 ## Group Policies
 
 * [Peer Review](group-policies/peer-review.md)
-* [Travel](group-policies/travel.md)
 * [Page 1](group-policies/page-1.md)
 * [Wexler Group Script Depository](group-policies/wexler-group-script-depository.md)
 * [Manuscripts](group-policies/manuscripts/README.md)
@@ -36,3 +35,4 @@
 * [Onboarding](group-administration/onboarding/README.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
   * [Postdocs](group-administration/onboarding/postdocs-onboarding.md)
+* [Travel](group-administration/travel.md)
