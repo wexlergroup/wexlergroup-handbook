@@ -35,4 +35,4 @@
 * [Onboarding](group-administration/onboarding/README.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
   * [Postdocs](group-administration/onboarding/postdocs-onboarding.md)
-* [Travel](group-administration/travel.md)
+* [Travel](group-policies/travel.md)
