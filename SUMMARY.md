@@ -10,6 +10,7 @@
 * [Manuscripts](group-policies/manuscripts/README.md)
   * [Suggestions for Getting Started](group-policies/manuscripts/suggestions-for-getting-started.md)
   * [Examples](group-policies/manuscripts/examples.md)
+  * [External Resources](group-policies/manuscripts/external-resources.md)
 
 ## Research
 
