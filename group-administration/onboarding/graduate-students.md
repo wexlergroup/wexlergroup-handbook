@@ -20,7 +20,7 @@ These orientations can help you make friends quickly, understand the Chemistry g
 
 #### Rotation
 
-According to the requirements for the Chmistry Ph.D. program at WashU, new graduate students need to take rotations among 3-4 research groups before submitting their final group choice form in November.
+According to the requirements for the Chemistry Ph.D. program at WashU, new graduate students need to take rotations among 3-4 research groups before submitting their final group choice form in November.
 
 Taking rotation in Wexler Group, we want you attend our group meetings regularly, listen to others' projects, and try to ask questions (there is no stupid question!). You will also have a chance to introduce yourself and your study as well as research experiences.
 
@@ -28,23 +28,23 @@ Taking rotation in Wexler Group, we want you attend our group meetings regularly
 
 ### Study
 
-During the first two years, the graduate students need to complete taking six graduate-level courses (four of them are in the area of your thesis research while the other two are outside)  and teach one class each semester. Discuss with Prof. Wexler about the class you want to take! (You can choose the courses not only open by the Chemistry Department, but also by Physics, Mathematical Statistics, and Engineering Departments.)
+During the first two years, the graduate students need to complete taking six graduate-level courses (four of them are in the area of your thesis research while the other two are outside)  and teach one class each semester. Discuss the class you want to take with Prof. Wexler! (You can choose the courses not only open by the Chemistry Department, but also by the Physics, Mathematical Statistics, and Engineering Departments.)
 
-The pre-thesis exam need to be completed before the end of the third semester. Therefore, you need to discuss with Prof. Wexler to decide the faculty members you want to invite to be your thesis advisory committee (TAC) during the 1st summer.
+The pre-thesis exam need to be completed before the end of the third semester. Therefore, you need to discuss with Prof. Wexler to decide which faculty members you want to invite to be your thesis advisory committee (TAC) during the 1st summer.
 
 You need to contact your TAC regularly and make appointments for annual progress committee meetings to present the updates of your projects.
 
 ### Live
 
-The Department of Chemistry is located on [Danforth Campus](https://www.math.wustl.edu/\~beheshti/Danforth-Campus-Map.pdf).
+The Department of Chemistry is located on the [Danforth Campus](https://www.math.wustl.edu/\~beheshti/Danforth-Campus-Map.pdf).
 
-Around the Danforth Campus, WashU owns a lot of real estate which is managed by the [Quadrangle](https://quadrangle.wustl.edu). Graduate students can always find the property you want to rent there with rational cost. In addition, the maintanance service is always prompt and free of charge.
+Around the Danforth Campus, WashU owns a lot of real estate, which is managed by the Quadrangle. Graduate students can always find the property they want to rent there at a reasonable cost. In addition, the maintenance service is always prompt and free of charge.
 
-WashU has a good [shuttle system](https://parking.wustl.edu/campus-shuttle-system/) for WashU members to get around campus. They also offers some special services (e.g., [Campus2Home Shuttle](https://parking.wustl.edu/items/campus2home/)) to safely bring you back home even at late night.
+WashU has a good [shuttle system](https://parking.wustl.edu/campus-shuttle-system/) for WashU members to get around campus. They also offer some special services (e.g., [Campus2Home Shuttle](https://parking.wustl.edu/items/campus2home/)) to safely bring you back home even at late night.
 
-For outdoor facilities, there are [track](https://washubears.com/sports/2022/6/6/facilities-francis-field.aspx), [tennis courts](https://washubears.com/sports/2022/6/6/facilities-tao-tennis.aspx) and seceral playing fields. For indoor facilities, there are [gym, basketball courts, swimming pools, and so on](https://washubears.com/sports/recreation). Graduate students are free to use all of them!
+For outdoor facilities, there are [track](https://washubears.com/sports/2022/6/6/facilities-francis-field.aspx), [tennis courts](https://washubears.com/sports/2022/6/6/facilities-tao-tennis.aspx) and several playing fields. For indoor facilities, there are [gym, basketball courts, swimming pools, and so on](https://washubears.com/sports/recreation). Graduate students are free to use all of them!
 
-## Userful Resources
+## Useful Resources
 
 {% file src="../../.gitbook/assets/Requirements for Ph.D. Degree in Chemistry 2017 Final.pdf" %}
 
