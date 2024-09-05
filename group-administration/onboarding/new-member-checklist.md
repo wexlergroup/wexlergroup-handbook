@@ -27,7 +27,7 @@
 
 ### Ready to Code
 
-* [ ] **GitHub**: Create a GitHub account and familiarize yourself with the [Wexler Group](https://github.com/wexlergroup) repositories.
+* [ ] **GitHub**: Create a GitHub account and familiarize yourself with the [Wexler Group's](https://github.com/wexlergroup) repositories.
 * [ ] [**DataCamp**](https://www.datacamp.com/): Register for DataCamp using your WashU email, then ask Prof. Wexler to add you to the group for access to coding courses and tutorials.
 * [ ] **Julia Installation**: If needed, install [Julia](https://julialang.org/downloads/) and begin [practicing](https://julialang.org/learning/tutorials/).
 * [ ] **Python for Materials Modeling**: Install Python packages such as [ASE](https://wiki.fysik.dtu.dk/ase/install.html) and [Pymatgen](https://pymatgen.org/installation.html).
