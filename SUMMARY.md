@@ -35,5 +35,5 @@
 * [Onboarding](group-administration/onboarding/README.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
   * [Postdocs](group-administration/onboarding/postdocs-onboarding.md)
-  * [New Members Checklist](group-administration/onboarding/new-members-checklist.md)
+  * [New Member Checklist](group-administration/onboarding/new-member-checklist.md)
 * [Travel](group-policies/travel.md)
