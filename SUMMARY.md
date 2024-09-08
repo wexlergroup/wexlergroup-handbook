@@ -34,6 +34,7 @@
 
 * [Group Jobs](group-administration/group-jobs.md)
 * [Onboarding](group-administration/onboarding/README.md)
+  * [Undergraduates](group-administration/onboarding/undergraduates.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
   * [Postdocs](group-administration/onboarding/postdocs-onboarding.md)
   * [New Member Checklist](group-administration/onboarding/new-member-checklist.md)
