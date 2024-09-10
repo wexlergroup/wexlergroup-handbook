@@ -11,6 +11,8 @@ description: Guide and tips on business travel, e.g., attending conferences, wor
 * Keep all receipts for reimbursement once the trip is concluded. File for reimbursement within 15 days after the trip.
 * Leave enough time for poster printing.&#x20;
 
-## Guide to Travel for Graduate Students
+## Travel Funds Through the Chemistry Department
+
+After placement with a research group, each graduate student is eligible for $400 per academic year for conference travel when presenting a poster or giving a talk.
 
 {% file src="../.gitbook/assets/Guide to Travel for Graduate Students_Sept 2024.pdf" %}
