@@ -1,3 +1,7 @@
+---
+description: 'Credit: Carter group wiki'
+---
+
 # Suggestions for Getting Started
 
 1. **Discuss Your Research**: Explain your research to coworkers to refine your understanding and gain feedback.
