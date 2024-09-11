@@ -12,6 +12,7 @@
   * [Manuscript Checklist](group-policies/manuscripts/manuscript-checklist.md)
   * [Examples](group-policies/manuscripts/examples.md)
   * [External Resources](group-policies/manuscripts/external-resources.md)
+* [Research News](group-policies/research-news.md)
 
 ## Research
 
