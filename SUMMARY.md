@@ -40,3 +40,4 @@
   * [Postdocs](group-administration/onboarding/postdocs-onboarding.md)
   * [New Member Checklist](group-administration/onboarding/new-member-checklist.md)
 * [Travel](group-policies/travel.md)
+* [Individual Development Plan](group-administration/individual-development-plan.md)
