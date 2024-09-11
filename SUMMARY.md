@@ -30,6 +30,7 @@
     * [Compiling VASP with Intel oneAPI and HPC Toolkits for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-intel-oneapi-and-hpc-toolkits-for-cpus.md)
     * [Compiling VASP with AMD AOCC and AOCL for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-amd-aocc-and-aocl-for-cpus.md)
     * [Compiling VASP with NVIDIA HPC\_SDK for GPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-nvidia-hpc\_sdk-for-gpus.md)
+* [Data](research/data.md)
 
 ## Group Administration
 
