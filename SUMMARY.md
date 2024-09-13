@@ -20,6 +20,7 @@
 * [Methods](research/methods/README.md)
   * [Interatomic Potentials](research/interatomic-potentials.md)
   * [Ionic Minimization](research/structure-optimization.md)
+  * [Nested Sampling](research/methods/nested-sampling.md)
 * [Properties](research/properties.md)
 * [Systems](research/systems/README.md)
   * [Defects](research/defects.md)
