@@ -5,7 +5,6 @@
 ## Group Policies
 
 * [Peer Review](group-policies/peer-review.md)
-* [Page 1](group-policies/page-1.md)
 * [Wexler Group Script Depository](group-policies/wexler-group-script-depository.md)
 * [Manuscripts](group-policies/manuscripts/README.md)
   * [Suggestions for Getting Started](group-policies/manuscripts/suggestions-for-getting-started.md)
@@ -13,6 +12,7 @@
   * [Examples](group-policies/manuscripts/examples.md)
   * [External Resources](group-policies/manuscripts/external-resources.md)
 * [Research News](group-policies/research-news.md)
+* [To-do list](group-policies/page-1.md)
 
 ## Research
 
@@ -25,7 +25,6 @@
 * [Systems](research/systems/README.md)
   * [Defects](research/defects.md)
   * [Surfaces](research/surfaces.md)
-* [Page 2](research/page-2.md)
 * [External Resources](research/external-resources.md)
 * [Softwares](research/softwares/README.md)
   * [VASP(6.4.1) Installation](research/softwares/vasp-6.4.1-installation/README.md)
@@ -35,10 +34,10 @@
     * [Common errors in VASP calculations](research/softwares/vasp-6.4.1-installation/common-errors-in-vasp-calculations.md)
 * [Data](research/data.md)
 * [HPC](research/hpc.md)
+* [To-do list](research/page-2.md)
 
 ## Group Administration
 
-* [Group Jobs](group-administration/group-jobs.md)
 * [Onboarding](group-administration/onboarding/README.md)
   * [Undergraduates](group-administration/onboarding/undergraduates.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
@@ -46,3 +45,4 @@
   * [New Member Checklist](group-administration/onboarding/new-member-checklist.md)
 * [Travel](group-policies/travel.md)
 * [Individual Development Plan](group-administration/individual-development-plan.md)
+* [To-do list](group-administration/group-jobs.md)

@@ -1,4 +1,8 @@
-# Page 2
+---
+hidden: true
+---
+
+# To-do list
 
 all the documents, pdfs, etc. ive added to dropbox
 

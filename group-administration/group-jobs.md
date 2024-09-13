@@ -1,4 +1,10 @@
-# Group Jobs
+---
+hidden: true
+---
+
+# To-do list
+
+## Group Jobs
 
 * **Onboarding** (getting paid, bear card, housing, getting food, meeting people, your desk / office space, metro bus/transport / where ray leaves his spares keys, box, slack, trello, handbook, google drive, github)
   * Grad student handbook
