@@ -31,5 +31,13 @@ Note that DFT typically gives results at 0 K, but real systems operate at higher
 
 
 
+Use pymatgen to prepare VASP input files and reduce human errors.&#x20;
+
+choose appropriate INCAR settings, like XC functional, initial magnetic moments, smearing, spin polarization, etc.
+
+#### 3.  Submit the calculation on cluster.
+
+
+
 
 
