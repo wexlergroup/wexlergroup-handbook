@@ -37,6 +37,7 @@
   * [Common VASP errors](research/softwares/common-vasp-errors.md)
 * [Data](research/data.md)
 * [HPC](research/hpc.md)
+* [Materials Design Considerations](research/materials-design-considerations.md)
 * [To-do list](research/page-2.md)
 
 ## Group Administration
