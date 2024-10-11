@@ -17,11 +17,12 @@
 ### Installing Software
 
 * [ ] [**Microsoft 365**](https://it.wustl.edu/items/microsoft-365-m365/): Access Microsoft 365 using your WashU account and install the necessary applications (Word, Excel, PowerPoint, _etc._).
+* [ ] [**Overleaf**](https://www.overleaf.com/): Sign up for your Overleaf account to write manuscripts, design posters, and cooperate with others.
 * [ ] [**Slack**](https://slack.com/intl/en-gb/downloads/mac): Download Slack and request an invitation from Prof. Wexler to join the workspace.
 * [ ] [**Zotero**](https://www.zotero.org/download/): Install Zotero for reference management. Contact Prof. Wexler to be added to the group’s shared library folders.
 * [ ] **Trello**: Download Trello from the App Store and collaborate with Prof. Wexler to set up project management boards.
 * [ ] [**WashU Box**](https://it.wustl.edu/items/box/): Access WashU Box for file sharing. Request that Prof. Wexler invite you to the group’s shared folders.
-* [ ] [**VESTA**](https://jp-minerals.org/vesta/en/download.html) **and** [**Jmol**](https://jmol.sourceforge.net/download/): Install VESTA and Jmol to visualize crystal structure files (_e.g._, `.cif`) and chemical structure files (_e.g._, `.xyz`).
+* [ ] [**VESTA**](https://jp-minerals.org/vesta/en/download.html)**,** [**Jmol**](https://jmol.sourceforge.net/download/)**, and** [**OVITO**](https://www.ovito.org/#download): Install VESTA, Jmol, and OVITO to visualize crystal structure files (_e.g._, `.cif`) and chemical structure files (_e.g._, `.xyz`).
 * [ ] **Coding Tools**: Install [VS Code](https://code.visualstudio.com/download), [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac), and [Miniconda](https://docs.anaconda.com/miniconda/#quick-command-line-install) to organize and develop your code.
 * [ ] **VASP License**: If needed, speak with Prof. Wexler to be added to the group’s VASP license.
 
