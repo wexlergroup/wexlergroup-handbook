@@ -22,3 +22,5 @@
 
 * [Matbench Discovery](https://matbench-discovery.materialsproject.org)
 * ACE
+  * [ACEpotentials.jl](https://acesuit.github.io/ACEpotentials.jl/dev/)
+* [Meta Open Materials 2024](https://lnkd.in/eMzmfE6W)
