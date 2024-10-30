@@ -8,5 +8,6 @@
 
 1. [SklogWiki](http://www.sklogwiki.org/SklogWiki/index.php/Main\_Page): A reference for theoretical statistical thermochemistry
 2. The Unreasonable Effectiveness of Mathematics in the Natural Sciences by Eugene Wigner
+3. [Christoph Molnar's writings on machine learning](https://christophmolnar.com/)
 
 {% file src="../.gitbook/assets/wigner.pdf" %}
