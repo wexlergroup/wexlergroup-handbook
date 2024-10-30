@@ -43,8 +43,10 @@
 
 ## Group Administration
 
-* [Pre-Thesis](group-administration/pre-thesis.md)
-* [Fellowships](group-administration/fellowships.md)
+* [Graduate Students](group-administration/graduate-students/README.md)
+  * [Fellowships](group-administration/graduate-students/fellowships.md)
+  * [Leave of Absence & Withdrawal Policy](group-administration/graduate-students/leave-of-absence-and-withdrawal-policy.md)
+  * [Pre-Thesis](group-administration/graduate-students/pre-thesis.md)
 * [Onboarding](group-administration/onboarding/README.md)
   * [Undergraduates](group-administration/onboarding/undergraduates.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
