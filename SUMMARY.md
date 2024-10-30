@@ -43,6 +43,7 @@
 
 ## Group Administration
 
+* [Pre-Thesis](group-administration/pre-thesis.md)
 * [Fellowships](group-administration/fellowships.md)
 * [Onboarding](group-administration/onboarding/README.md)
   * [Undergraduates](group-administration/onboarding/undergraduates.md)
