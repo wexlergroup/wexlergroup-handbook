@@ -1,5 +1,27 @@
 # Computing
 
+## Computing Resources
+
+* Active
+  * Internal
+    * bear
+      * dragon
+      * wapiti
+      * [Engineering Research Compute Cluster](https://washu.atlassian.net/wiki/spaces/EIKB/pages/184582522/Research+Compute+Cluster)
+      * [RIS](https://ris.wustl.edu/) (free tier)
+      * [CHPC](https://docs.chpc.wustl.edu/) (free tier)
+    * External
+      * [Indiana Jetstream2 CPU](https://docs.jetstream-cloud.org/) ([NSF ACCESS](https://allocations.access-ci.org/) Explore)
+      * [CNMS](https://www.ornl.gov/facility/cnms)
+        * [CADES](https://www.cades.ornl.gov/)
+        * [NERSC](https://www.nersc.gov/)
+      * Kestrel GPU ([NREL HPC](https://www.nrel.gov/hpc/))
+* Inactive
+  * [Delta GPU](https://docs.ncsa.illinois.edu/systems/delta/en/latest/) ([NSF ACCESS](https://allocations.access-ci.org/) Accelerate)
+* Expired
+  * [Theta](https://www.alcf.anl.gov/) ([ALCF Director’s Discretionary](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program))
+  * Kestrel CPU ([NREL HPC](https://www.nrel.gov/hpc/))
+
 ## Top Level Research IT Support Pages
 
 * [A\&S Research IT Support](https://it.artsci.wustl.edu/research-computing): https://it.artsci.wustl.edu/research-computing
