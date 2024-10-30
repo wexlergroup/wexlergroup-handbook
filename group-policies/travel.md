@@ -5,16 +5,46 @@ description: Travel Guide and Tips on Business Travel
 # Travel
 
 * **Conference Registration:** Check if membership is required or provides a discount.
-* **Flights:** Compare airfares across all airlines for the cheapest rate. Google Flights is a good resource for this. For international air travel, booking with an American-owned airline is required, even if fares are higher than those of foreign airlines.
-* **Hotel:** Conference organizers often provide discounted rates for hotel bookings. When possible, book flights that minimize the number of nights of stay to reduce total travel costs.
-* **Reimbursement:** Keep all receipts for reimbursement once the trip is concluded. File for reimbursement within 15 days after the trip.
 * **Poster Printing:** Leave enough time for poster printing.
+
+## Travel Guidelines for Flights and Hotels
+
+When traveling on sponsored funding, please adhere to the following guidelines to ensure compliance with Washington University policies and to facilitate prompt reimbursement.
+
+### Flights
+
+* **Price Comparison**: Use travel sites like Google Flights, Expedia, or other aggregators **for price comparison purposes only**. These platforms are useful for finding the best rates and schedules across different airlines.
+* **Booking**: Book your flights **directly with the airline** or through an approved WashU travel agency after comparing prices. **Do not book flights through third-party travel sites like Expedia**.
+* **International Travel**: For international air travel on sponsored funding, **booking with an American-owned airline is required**, even if fares are higher than those of foreign airlines. This complies with the Fly America Act.
+* **WashU Travel Resources**: You may utilize WashU's preferred travel agencies or resources for business travel. Visit the following links for more information:
+  * [WashU Preferred Suppliers for Travel Services](https://resourcemanagement.wustl.edu/purchasing-services/preferred-suppliers/travel-services-business-travel-only/)
+  * [WashU Travel Agencies](https://resourcemanagement.wustl.edu/purchasing-services/preferred-suppliers/travel-services-business-travel-only/travel-agencies/)
+
+### Hotels
+
+* **Discounted Rates**: Conference organizers often provide discounted rates for hotel bookings. **Take advantage of these rates when possible**.
+* **Booking**: Similar to flights, book your hotel accommodations **directly with the hotel** or through an approved WashU travel agency. **Do not book hotels through third-party travel sites like Expedia**.
+* **Minimizing Costs**: When possible, schedule your flights and travel plans to **minimize the number of nights** you must stay, thereby reducing total travel costs.
+
+### Expense Reimbursement
+
+* **Receipts and Documentation**: Keep all **itemized receipts** for your expenses. When submitting expenses for reimbursement, send an email to **V** with:
+  * Your itemized receipts.
+  * The **conference agenda**.
+  * A short **justification** explaining how the travel benefits the aims of the project.
+* **Policy Compliance**: Ensure that all expenses comply with WashU's travel policies. Refer to the attached policy document (if available) or contact the department's financial operations manager for clarification.
+* File for reimbursement within 15 days after the trip.
+
+### General Tips
+
+* **Advance Planning**: Book your travel well in advance to secure the best rates and ensure compliance with all policies.
+* **Assistance**: If you have any questions or need help booking flights or hotels, please contact the department's financial operations team.
 
 ## Travel Funds Through the Chemistry Department
 
 After placement with a research group, each graduate student is eligible for $400 per academic year for conference travel when presenting a poster or giving a talk.
 
-{% file src="../.gitbook/assets/Guide to Travel for Graduate Students_Sept 2024.pdf" %}
+{% file src="../.gitbook/assets/Guide to Travel for Graduate Students_Sept 23 2024_NEW.pdf" %}
 
 ## Departmental Support for Upfront Costs
 
