@@ -43,6 +43,7 @@
 
 ## Group Administration
 
+* [Fellowships](group-administration/fellowships.md)
 * [Onboarding](group-administration/onboarding/README.md)
   * [Undergraduates](group-administration/onboarding/undergraduates.md)
   * [Graduate Students](group-administration/onboarding/graduate-students.md)
