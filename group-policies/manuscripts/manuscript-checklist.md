@@ -7,5 +7,5 @@ description: 'Credit: Carter group wiki'
 ## General Requirements
 
 * [ ] Manuscript outline approved by Prof. Wexler
-* [ ] Abstract:
+* [ ] Abstract: One or two paragraphs long
   *
