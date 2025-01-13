@@ -32,7 +32,7 @@
   * [VASP(6.4.1) Installation](research/softwares/vasp-6.4.1-installation/README.md)
     * [Compiling VASP with Intel oneAPI and HPC Toolkits for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-intel-oneapi-and-hpc-toolkits-for-cpus.md)
     * [Compiling VASP with AMD AOCC and AOCL for CPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-amd-aocc-and-aocl-for-cpus.md)
-    * [Compiling VASP with NVIDIA HPC\_SDK for GPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-nvidia-hpc\_sdk-for-gpus.md)
+    * [Compiling VASP with NVIDIA HPC\_SDK for GPUs](research/softwares/vasp-6.4.1-installation/compiling-vasp-with-nvidia-hpc_sdk-for-gpus.md)
     * [Compiling VASP on M1 Mac](research/softwares/vasp-6.4.1-installation/compiling-vasp-on-m1-mac.md)
     * [Common errors in VASP calculations](research/softwares/vasp-6.4.1-installation/common-errors-in-vasp-calculations.md)
   * [Common VASP errors](research/softwares/common-vasp-errors.md)
@@ -56,3 +56,8 @@
 * [Travel](group-policies/travel.md)
 * [Individual Development Plan](group-administration/individual-development-plan.md)
 * [To-do list](group-administration/group-jobs.md)
+
+## TEACHING
+
+* [Chem 402/5020](teaching/chem-402-5020/README.md)
+  * [Adding Lecture Notes](teaching/chem-402-5020/adding-lecture-notes.md)
