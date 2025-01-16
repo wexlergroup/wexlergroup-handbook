@@ -2,9 +2,19 @@
 
 This page contains links to external resources that Wexler Group members have found helpful.
 
+## Books
+
 * [The Simple Math of Writing Well](https://pressbooks.pub/writing21stcentury/)
 
 {% file src="../../.gitbook/assets/Scientific Papers  Learn Science at Scitable.pdf" %}
+
+### _Writing Science_ by Joshua Schimel
+
+{% file src="../../.gitbook/assets/writing-science-joshua-schimel.pdf" %}
+
+{% file src="../../.gitbook/assets/schimel-in-a-sheet.pdf" %}
+_Schimel in a Sheet_ by [Amy Burgin's Lab](https://burginlab.wordpress.com)
+{% endfile %}
 
 ## Cover Art
 
