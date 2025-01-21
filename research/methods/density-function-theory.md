@@ -1,6 +1,8 @@
 # Density Function Theory
 
-## Electron Exchange-Correlation Energy Density Functionals (XC Functionals)
+## Electron Exchange-Correlation Energy Density Functionals
+
+(XC Functionals)
 
 ```mermaid
 ---
