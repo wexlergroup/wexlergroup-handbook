@@ -1,8 +1,6 @@
-# Density Function Theory
+# Density Functional Theory
 
-## Electron Exchange-Correlation Energy Density Functionals
-
-(XC Functionals)
+## Electron Exchange-Correlation Energy Density Functionals (XC Functionals)
 
 ```mermaid
 ---
@@ -52,4 +50,3 @@ flowchart TD
 ```
 
 {% embed url="https://www.vasp.at/wiki/index.php/Category:Exchange-correlation_functionals" %}
-
