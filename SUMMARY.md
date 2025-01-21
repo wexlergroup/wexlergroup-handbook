@@ -20,6 +20,7 @@
 
 * [Models](research/models.md)
 * [Methods](research/methods/README.md)
+  * [Density Function Theory](research/methods/density-function-theory.md)
   * [Interatomic Potentials](research/interatomic-potentials.md)
   * [Ionic Minimization](research/structure-optimization.md)
   * [Nested Sampling](research/methods/nested-sampling.md)
