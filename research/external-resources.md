@@ -16,6 +16,8 @@
 
 {% file src="../.gitbook/assets/wigner.pdf" %}
 
+5\. [LLM Visualization](https://bbycroft.net/llm): visualizes several LLM architectures, walking through the entire activation process for GPT models
+
 ## Python
 
 ### Matplotlib
