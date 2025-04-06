@@ -37,3 +37,7 @@
 * [Compute Access](https://it.artsci.wustl.edu/questions-and-answers-about-ris#anchor-group-11883): https://it.artsci.wustl.edu/questions-and-answers-about-ris#anchor-group-11883
 * [WashU Research Network (WURN)](https://it.wustl.edu/services/wurn/): https://it.wustl.edu/services/wurn/
 * [WashU ChatGPT](https://gpt.wustl.edu/): https://gpt.wustl.edu/
+
+## Grants
+
+* [AWS Cloud Credit for Research](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/)
