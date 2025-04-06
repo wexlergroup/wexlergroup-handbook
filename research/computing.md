@@ -38,6 +38,7 @@
 * [WashU Research Network (WURN)](https://it.wustl.edu/services/wurn/): https://it.wustl.edu/services/wurn/
 * [WashU ChatGPT](https://gpt.wustl.edu/): https://gpt.wustl.edu/
 * [RIS Open OnDemand](https://docs.ris.wustl.edu/doc/compute/compute-ood.html#compute-ood)
+* [Jupyter Notebook | RCIF](https://docs.chpc.wustl.edu/software/jupyter-notebook.html)
 
 ## Grants
 
