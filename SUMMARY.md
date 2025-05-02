@@ -24,6 +24,7 @@
   * [Interatomic Potentials](research/interatomic-potentials.md)
   * [Ionic Minimization](research/structure-optimization.md)
   * [Nested Sampling](research/methods/nested-sampling.md)
+  * [Coordination Complex Enumeration](research/methods/coordination-complex-enumeration.md)
 * [Properties](research/properties.md)
 * [Systems](research/systems/README.md)
   * [Defects](research/defects.md)
