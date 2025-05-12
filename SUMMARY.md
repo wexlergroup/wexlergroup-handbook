@@ -60,6 +60,7 @@
   * [New Member Checklist](group-administration/onboarding/new-member-checklist.md)
 * [Travel](group-policies/travel.md)
 * [Individual Development Plan](group-administration/individual-development-plan.md)
+* [Group Gigs](group-administration/group-gigs.md)
 * [To-do list](group-administration/group-jobs.md)
 
 ## TEACHING
