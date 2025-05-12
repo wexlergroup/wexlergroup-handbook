@@ -20,9 +20,9 @@
 
 * [Models](research/models.md)
 * [Methods](research/methods/README.md)
-  * [Choosing an Energetics Engine](research/methods/choosing-an-energetics-engine/README.md)
-    * [Density Functional Theory](research/methods/choosing-an-energetics-engine/density-functional-theory.md)
-    * [Interatomic Potentials](research/methods/choosing-an-energetics-engine/interatomic-potentials.md)
+  * [Energetics Engine](research/methods/energetics-engine/README.md)
+    * [Density Functional Theory](research/methods/energetics-engine/density-functional-theory.md)
+    * [Interatomic Potentials](research/methods/energetics-engine/interatomic-potentials.md)
   * [Ionic Minimization](research/structure-optimization.md)
   * [Nested Sampling](research/methods/nested-sampling.md)
   * [Coordination Complex Enumeration](research/methods/coordination-complex-enumeration.md)
