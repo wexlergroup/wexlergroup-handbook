@@ -27,6 +27,7 @@
   * [Configurational Sampling](research/methods/configurational-sampling/README.md)
     * [Nested Sampling](research/methods/configurational-sampling/nested-sampling.md)
     * [Coordination Complex Enumeration](research/methods/configurational-sampling/coordination-complex-enumeration.md)
+    * [Additional Methods and Resources](research/methods/configurational-sampling/additional-methods-and-resources.md)
 * [Properties](research/properties.md)
 * [Systems](research/systems/README.md)
   * [Defects](research/defects.md)
