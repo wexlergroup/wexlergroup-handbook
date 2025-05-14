@@ -23,4 +23,6 @@ are violated.
 1. **Fit different&#x20;**_**T**_**-ranges separately.** If each segment is linear but has different slopes, a mechanism change is likely.
 2. **Calculate individual barriers** (e.g., NEB for each crystallographically distinct hop) and build a composite rate model _k_(_T_) = Σ _k_<sub>_i_</sub> (_T_). If that reproduces the curvature, multiple paths could be the cause.
 3. **Check volume dependence.** Does _E_<sub>m</sub> decrease linearly with the thermal-expansion strain ∂_E_<sub>m</sub>/∂ln(_V_)? If yes, anharmonicity is sufficient to explain the non-Arrhenius behavior.
+   1. [https://doi.org/10.1016/j.actamat.2018.12.058](https://doi.org/10.1016/j.actamat.2018.12.058)
+   2. [https://doi.org/10.1103/PhysRevMaterials.6.023803](https://doi.org/10.1103/PhysRevMaterials.6.023803)
 4. **Monitor defect charge states or local geometry** (ab-initio MD, Monte Carlo, or spectroscopy)—a sudden change at the curvature temperature points to a crossover rather than parallel paths.
