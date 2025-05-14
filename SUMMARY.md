@@ -33,6 +33,7 @@
     * [Additional Methods and Resources](research/methods/configurational-sampling/additional-methods-and-resources.md)
 * [Properties](research/properties/README.md)
   * [Defect Thermodynamics](research/properties/defect-thermodynamics.md)
+  * [Non-Arrhenius Behavior](research/properties/non-arrhenius-behavior.md)
 * [External Resources](research/external-resources.md)
 * [Softwares](research/softwares/README.md)
   * [VASP(6.4.1) Installation](research/softwares/vasp-6.4.1-installation/README.md)
