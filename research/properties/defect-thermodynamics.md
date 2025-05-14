@@ -1,4 +1,8 @@
-# Properties
+---
+description: Formation Energies, Enthalpies, Entropies, and Free Energies
+---
+
+# Defect Thermodynamics
 
 ### Calculating formation enthalpy of defect using density functional theory (DFT)
 
@@ -36,8 +40,3 @@ Use pymatgen to prepare VASP input files and reduce human errors.&#x20;
 choose appropriate INCAR settings, like XC functional, initial magnetic moments, smearing, spin polarization, etc.
 
 #### 3.  Submit the calculation on cluster.
-
-
-
-
-
