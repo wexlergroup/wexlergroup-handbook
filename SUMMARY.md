@@ -19,6 +19,9 @@
 ## Research
 
 * [Models](research/models.md)
+* [Systems](research/systems/README.md)
+  * [Defects](research/defects.md)
+  * [Surfaces](research/surfaces.md)
 * [Methods](research/methods/README.md)
   * [Energetics Engine](research/methods/energetics-engine/README.md)
     * [Density Functional Theory](research/methods/energetics-engine/density-functional-theory.md)
@@ -30,9 +33,6 @@
     * [Additional Methods and Resources](research/methods/configurational-sampling/additional-methods-and-resources.md)
 * [Properties](research/properties/README.md)
   * [Defect Thermodynamics](research/properties/defect-thermodynamics.md)
-* [Systems](research/systems/README.md)
-  * [Defects](research/defects.md)
-  * [Surfaces](research/surfaces.md)
 * [External Resources](research/external-resources.md)
 * [Softwares](research/softwares/README.md)
   * [VASP(6.4.1) Installation](research/softwares/vasp-6.4.1-installation/README.md)

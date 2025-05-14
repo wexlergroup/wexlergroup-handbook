@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Models
 
 A **model** is an _approximate_ computational or theoretical representation of a **system** we want to simulate or study. In the Wexler Group's research, we typically build models by defining the following:
