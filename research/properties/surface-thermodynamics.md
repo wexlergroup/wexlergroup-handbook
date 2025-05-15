@@ -90,4 +90,60 @@ $$
 
 ### Example 2: Surface Energy of a Ternary Compound
 
-Under construction...
+When considering a <strong>_ternary_</strong> compound Ca<sub>_x_</sub>Ti<sub>_y_</sub>O<sub>_z_</sub>,
+
+$$
+\gamma = \frac{E_{slab}^{DFT} - N_{Ca} \Delta\mu_{Ca} - N_{Ti} \Delta\mu_{Ti}- N_{O} \Delta\mu_{O} - \sum_{i}^{all} N_{i} E_{i}^{DFT}}{2A}
+$$
+
+The formation Gibbs free energy of Ca<sub>_x_</sub>Ti<sub>_y_</sub>O<sub>_z_</sub> is defined as:
+
+$$
+\Delta_{f}G_{Ca_{x}Ti_{y}O_{z}} = G_{Ca_{x}Ti_{y}O_{z}} - x\cdot G_{Ca} - y\cdot G_{Ti} - z\cdot G_{O}= x\cdot \Delta \mu_{Ca} + y\cdot \Delta \mu_{Ti} + z\cdot \Delta \mu_{O}
+$$
+
+Similar to the case of the binary compound, we solve for one of the chemical potentials (the choice is arbitrary): 
+
+$$
+\Delta \mu_{Ca} = \frac{\Delta_{f}G_{Ca_{x}Ti_{y}O_{z}} - y\cdot \Delta \mu_{Ti} - z\cdot \Delta \mu_{O}}{x}
+$$
+
+Therefore,
+
+$$
+\begin{align*}
+\gamma =& \frac{E_{slab}^{DFT} - N_{Ca} \Delta\mu_{Ca} - N_{Ti} \Delta\mu_{Ti}- N_{O} \Delta\mu_{O} - N_{Ca} E_{Ca}^{DFT} - N_{Ti} E_{Ti}^{DFT}- N_{O} E_{O}^{DFT}}{2A} \nonumber \\\\
+       =& \frac{E_{slab}^{DFT} - N_{Ca} \frac{\Delta_{f}G_{Ca_{x}Ti_{y}O_{z}} - y\Delta\mu_{Ti} - z\cdot \Delta \mu_{O}}{x} - N_{Ti} \Delta \mu_{Ti} - N_{O} \Delta\mu_{O} - N_{Ca} E_{Ca}^{DFT} - N_{Ti} E_{Ti}^{DFT}- N_{O} E_{O}^{DFT}}{2A} \nonumber \\\\
+
+       \approx& \frac{E_{slab}^{DFT} - N_{Ca} \frac{\Delta_{f}E^{DFT}_{Ca_{x}Ti_{y}O_{z}} - y\Delta\mu_{Ti}- z\cdot \Delta \mu_{O}}{x} - N_{Ti} \Delta \mu_{Ti} - N_{O} \Delta\mu_{O} - N_{Ca} E_{Ca}^{DFT} - N_{Ti} E_{Ti}^{DFT}- N_{O} E_{O}^{DFT}}{2A} \nonumber \\\\
+
+       =& \frac{E_{slab}^{DFT} - \frac{N_{Ca}}{x} E_{Ca_{x}Ti_{y}O_{z}}^{DFT} + N_{Ca}E^{DFT}_{Ca} + \frac{y}{x}N_{Ca}E^{DFT}_{Ti} + \frac{z}{x}N_{Ca}E^{DFT}_{O}+ (\frac{y}{x}N_{Ca} - N_{Ti}) \Delta \mu_{Ti}}{2A} \nonumber \\
+
+       & + \frac{(\frac{z}{x}N_{Ca} - N_{O}) \Delta \mu_{O} - N_{Ca} E_{Ca}^{DFT} - N_{Ti} E_{Ti}^{DFT}- N_{O} E_{O}^{DFT}}{2A} \nonumber \\\\
+
+       =& \frac{E_{slab}^{DFT} - \frac{N_{Ca}}{x} E_{Ca_{x}Ti_{y}O_{z}}^{DFT} + (\frac{y}{x}N_{Ca} - N_{Ti})E^{DFT}_{Ti} + (\frac{z}{x}N_{Ca} - N_{O})E^{DFT}_{O} +(\frac{y}{x}N_{Ca} - N_{Ti}) \Delta \mu_{Ti} }{2A} \nonumber \\
+       
+       & \frac{+(\frac{z}{x}N_{Ca} - N_{O}) \Delta \mu_{O}}{2A}\nonumber \\\\
+
+       =& \frac{E_{slab}^{DFT} - \frac{N_{Ca}}{x} E_{Ca_{x}Ti_{y}O_{z}}^{DFT}}{2A} + \frac{\Gamma_{Ti}}{2A} E^{DFT}_{Ti} + \frac{\Gamma_{Ti}}{2A} \Delta\mu_{Ti}+ \frac{\Gamma_{O}}{2A} E^{DFT}_{O} + \frac{\Gamma_{O}}{2A} \Delta\mu_{O}
+\end{align*}
+$$
+
+$$
+\gamma = \gamma_{0} + \frac{\Gamma_{Ti}}{2A} \Delta\mu_{Ti} + \frac{\Gamma_O}{2A} \Delta\mu_O
+$$
+
+where
+
+$$
+\gamma_{0} = \frac{E_{slab}^{DFT} - \frac{N_{Ca}}{x} E_{Ca_{x}Ti_{y}O_{z}}^{DFT}}{2A} + \frac{\Gamma_{Ti}}{2A} E^{DFT}_{Ti} + \frac{\Gamma_{O}}{2A} E^{DFT}_{O}
+$$
+
+and
+
+$$
+       \Gamma_{Ti} = \frac{y}{x}N_{Ca} - N_{Ti}
+$$
+$$
+       \Gamma_{O} = \frac{z}{x}N_{Ca} - N_{O}
+$$
