@@ -6,11 +6,11 @@ This page contains links to external resources that Wexler Group members have fo
 
 * [The Simple Math of Writing Well](https://pressbooks.pub/writing21stcentury/)
 
-{% file src="../../.gitbook/assets/Scientific Papers  Learn Science at Scitable.pdf" %}
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) (Nature Education, Scitable)
 
 ### _Writing Science_ by Joshua Schimel
 
-{% file src="../../.gitbook/assets/writing-science-joshua-schimel.pdf" %}
+Available from [Oxford University Press](https://global.oup.com/academic/product/writing-science-9780199760244) and through [WashU Libraries](https://library.wustl.edu/).
 
 {% file src="../../.gitbook/assets/schimel-in-a-sheet.pdf" %}
 _Schimel in a Sheet_ by [Amy Burgin's Lab](https://burginlab.wordpress.com)
